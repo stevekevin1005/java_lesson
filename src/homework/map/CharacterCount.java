@@ -8,7 +8,7 @@ public class CharacterCount {
         for (char c : input.toCharArray()) {
             // 填寫代碼：將字符作為key，出現次數作為value
         }
-
+        test
         // 輸出每個字母出現的次數 預期結果 {
         //  h=1,
         //  e=1,
